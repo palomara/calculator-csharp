@@ -1,0 +1,23 @@
+C:\Users\palom\AppData\Local\Temporary Projects\SimpleCalculator\bin\Debug\SimpleCalculator.exe
+C:\Users\palom\AppData\Local\Temporary Projects\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
+C:\Users\palom\AppData\Local\Temporary Projects\SimpleCalculator\obj\x86\Debug\SimpleCalculator.Form1.resources
+C:\Users\palom\AppData\Local\Temporary Projects\SimpleCalculator\obj\x86\Debug\SimpleCalculator.Properties.Resources.resources
+C:\Users\palom\AppData\Local\Temporary Projects\SimpleCalculator\obj\x86\Debug\SimpleCalculator.csproj.GenerateResource.Cache
+C:\Users\palom\AppData\Local\Temporary Projects\SimpleCalculator\obj\x86\Debug\SimpleCalculator.exe
+C:\Users\palom\AppData\Local\Temporary Projects\SimpleCalculator\obj\x86\Debug\SimpleCalculator.pdb
+F:\gitrepositorios\calculator-csharp\SimpleCalculator\SimpleCalculator\obj\x86\Debug\SimpleCalculator.exe
+F:\gitrepositorios\calculator-csharp\SimpleCalculator\SimpleCalculator\obj\x86\Debug\SimpleCalculator.pdb
+F:\gitrepositorios\calculator-csharp\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe
+F:\gitrepositorios\calculator-csharp\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
+F:\gitrepositorios\calculator-csharp\SimpleCalculator\SimpleCalculator\obj\x86\Debug\SimpleCalculator.Form1.resources
+F:\gitrepositorios\calculator-csharp\SimpleCalculator\SimpleCalculator\obj\x86\Debug\SimpleCalculator.Properties.Resources.resources
+F:\gitrepositorios\calculator-csharp\SimpleCalculator\SimpleCalculator\obj\x86\Debug\SimpleCalculator.csproj.GenerateResource.Cache
+E:\gitrepositorios\calculator-csharp\SimpleCalculator\SimpleCalculator\obj\x86\Debug\SimpleCalculator.exe
+E:\gitrepositorios\calculator-csharp\SimpleCalculator\SimpleCalculator\obj\x86\Debug\SimpleCalculator.pdb
+E:\gitrepositorios\calculator-csharp\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe
+E:\gitrepositorios\calculator-csharp\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
+E:\gitrepositorios\calculator-csharp\SimpleCalculator\SimpleCalculator\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\gitrepositorios\calculator-csharp\SimpleCalculator\SimpleCalculator\obj\x86\Debug\SimpleCalculator.Form1.resources
+E:\gitrepositorios\calculator-csharp\SimpleCalculator\SimpleCalculator\obj\x86\Debug\SimpleCalculator.Properties.Resources.resources
+E:\gitrepositorios\calculator-csharp\SimpleCalculator\SimpleCalculator\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\gitrepositorios\calculator-csharp\SimpleCalculator\SimpleCalculator\obj\x86\Debug\GenerateResource.write.1.tlog

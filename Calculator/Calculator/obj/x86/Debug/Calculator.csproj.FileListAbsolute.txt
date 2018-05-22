@@ -1,0 +1,36 @@
+C:\Users\Aluno\AppData\Local\Temporary Projects\Calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Aluno\AppData\Local\Temporary Projects\Calculator\obj\x86\Debug\Calculator.Properties.Resources.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\Calculator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Aluno\AppData\Local\Temporary Projects\Calculator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Aluno\AppData\Local\Temporary Projects\Calculator\bin\Debug\Calculator.exe
+C:\Users\Aluno\AppData\Local\Temporary Projects\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Aluno\AppData\Local\Temporary Projects\Calculator\obj\x86\Debug\Calculator.exe
+C:\Users\Aluno\AppData\Local\Temporary Projects\Calculator\obj\x86\Debug\Calculator.pdb
+C:\Users\Aluno\AppData\Local\Temporary Projects\Calculator\obj\x86\Debug\Calculator.Calculadora.resources
+C:\Users\Aluno\documents\visual studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\Calculator.exe
+C:\Users\Aluno\documents\visual studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\Calculator.pdb
+F:\gitrepositorios\calculator-csharp\Calculator\Calculator\obj\x86\Debug\Calculator.exe
+F:\gitrepositorios\calculator-csharp\Calculator\Calculator\obj\x86\Debug\Calculator.pdb
+F:\gitrepositorios\calculator-csharp\Calculator\Calculator\bin\Debug\Calculator.exe
+F:\gitrepositorios\calculator-csharp\Calculator\Calculator\bin\Debug\Calculator.pdb
+F:\gitrepositorios\calculator-csharp\Calculator\Calculator\obj\x86\Debug\Calculator.Calculadora.resources
+F:\gitrepositorios\calculator-csharp\Calculator\Calculator\obj\x86\Debug\Calculator.Properties.Resources.resources
+F:\gitrepositorios\calculator-csharp\Calculator\Calculator\obj\x86\Debug\Calculator.csproj.GenerateResource.Cache
+F:\gitrepositorios\calculator-csharp\Calculator\Calculator\obj\x86\Debug\Calculator.csprojResolveAssemblyReference.cache
+E:\gitrepositorios\calculator-csharp\Calculator\Calculator\obj\x86\Debug\Calculator.exe
+E:\gitrepositorios\calculator-csharp\Calculator\Calculator\obj\x86\Debug\Calculator.pdb
+E:\gitrepositorios\calculator-csharp\Calculator\Calculator\bin\Debug\Calculator.exe
+E:\gitrepositorios\calculator-csharp\Calculator\Calculator\bin\Debug\Calculator.pdb
+E:\gitrepositorios\calculator-csharp\Calculator\Calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\gitrepositorios\calculator-csharp\Calculator\Calculator\obj\x86\Debug\Calculator.Calculadora.resources
+E:\gitrepositorios\calculator-csharp\Calculator\Calculator\obj\x86\Debug\Calculator.Properties.Resources.resources
+E:\gitrepositorios\calculator-csharp\Calculator\Calculator\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\gitrepositorios\calculator-csharp\Calculator\Calculator\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\gitrepositorios\calculator-csharp\Calculator\Calculator\obj\x86\Debug\Calculator.exe
+G:\gitrepositorios\calculator-csharp\Calculator\Calculator\obj\x86\Debug\Calculator.pdb
+G:\gitrepositorios\calculator-csharp\Calculator\Calculator\bin\Debug\Calculator.exe
+G:\gitrepositorios\calculator-csharp\Calculator\Calculator\bin\Debug\Calculator.pdb
+G:\gitrepositorios\calculator-csharp\Calculator\Calculator\obj\x86\Debug\Calculator.csprojResolveAssemblyReference.cache
+G:\gitrepositorios\calculator-csharp\Calculator\Calculator\obj\x86\Debug\Calculator.Calculadora.resources
+G:\gitrepositorios\calculator-csharp\Calculator\Calculator\obj\x86\Debug\Calculator.Properties.Resources.resources
+G:\gitrepositorios\calculator-csharp\Calculator\Calculator\obj\x86\Debug\Calculator.csproj.GenerateResource.Cache
